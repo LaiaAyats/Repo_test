@@ -1,2 +1,0 @@
-perro = "ayudante de santa"
-print(perro)
